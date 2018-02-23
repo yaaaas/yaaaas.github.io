@@ -52,7 +52,7 @@ header .logo {
 	-webkit-clip-path: polygon(0 0%, 100% 0, 100% 100%, 0% 85%);
   clip-path: url(#poly);
 	overflow: hidden;
-  
+
 }
 .jumbotron h1 {
 	font-size: 50px;
@@ -194,6 +194,9 @@ footer {
 	padding: 10px 0;
 	font-size: 12px;
 }
+.buttons{
+	padding: 25px;
+}
 
 @media (min-width: 320px) and (max-width: 480px) {
 .jumbotron {
@@ -210,3 +213,10 @@ footer {
 	margin-top: 20px;
 }
 } /**** END 320 and 480 ****/
+
+
+.video{
+	width: 40vw;
+	height: 30vw;
+
+}
