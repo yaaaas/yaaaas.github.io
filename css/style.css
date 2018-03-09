@@ -89,6 +89,7 @@ header .logo {
 }
 .main-content {
 	padding-top: 25px;
+	max-width: 800px;
 }
 .main-content .white-box {
 	padding: 25px;
@@ -228,5 +229,5 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  max-width: 800px;
+
 }
