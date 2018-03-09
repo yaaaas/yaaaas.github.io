@@ -93,7 +93,7 @@ header .logo {
 .main-content .white-box {
 	padding: 25px;
 	margin: 25px 0;
-	
+
 }
 .main-content ul {
 	list-style: initial;
@@ -105,11 +105,11 @@ header .logo {
 	text-transform: uppercase
 }
 .form-container {
-	
-	padding: 25px;
+
+	padding: 50px;
 	border-radius: 3px;
   margin-bottom: 50px;
-  
+
 }
 .form-container div {
 	margin: 20px 0;
@@ -217,8 +217,9 @@ footer {
 
 
 .video{
-	width: 40vw;
-	height: 30vw;
+	width: 80vw;
+	height: 50vw;
+	max-width:1000px;
 
 }
 
@@ -229,5 +230,3 @@ footer {
   align-items: center;
   max-width: 800px;
 }
-
-
